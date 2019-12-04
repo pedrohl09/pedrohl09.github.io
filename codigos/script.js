@@ -1,15 +1,6 @@
-var x, y, z, xc, yc
-x = 100
-y = 100
-z = 4
-xc = x - 20
-yc = y
 tela = 1
-
 cont = 0;
-
 cont_perg = 0;
-
 posX = posY = 10
 tamGride = 20;  //A tela (400x400) foi dividida em 20 quadrados
 capacidade = 20;
